@@ -20,6 +20,8 @@ No need to save the page, after these values are entered here, you will see a bu
 
 > [!NOTE]
 > If the extension does not correctly figure out your `layout_geometry` there is an additional option to be able to override the `layout_geometry` that is used int the Github Workflow.
+>
+> See [`options` in the workflow file](https://github.com/poulainpi/oryx-with-custom-qmk/blob/main/.github/workflows/fetch-and-build-layout.yml) for available options.
 
 ## How it works
 
