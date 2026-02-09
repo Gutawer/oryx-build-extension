@@ -134,6 +134,7 @@ export default function App() {
       owner,
       repo,
       run_id,
+      headers,
     });
     const artifact_id = artifacts?.data?.artifacts?.[0]?.id;
     if (artifact_id) {
